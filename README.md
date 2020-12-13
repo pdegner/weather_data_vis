@@ -29,7 +29,7 @@ Plot 2 graphs percentage of days with precipitation by month.
 
 
 ### Plot 3: Heatmap of Maximum Daily Temperature 
-This plot visualizes the change in maximum daily temperature over the year, with darker red representing hotter days. Note that there are two plots that are half full. This is because we only have data for half of year for two years.  
+This plot visualizes the change in maximum daily temperature over the year, with darker red representing hotter days. Note that there are two plots that are half full. This is because we only have data for half of the year for two years.  
 ![heatmap](images/heatmap.png)
 
 ### Plots 4 and 5: Record High Temperature by Year
