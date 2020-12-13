@@ -41,4 +41,4 @@ The height of the bars represent the number of record high temperature days in a
 Plot 5 is sorted by number of days with record highs. 
 ![bar2](images/bar2.png)
 
-I wanted to see if there was any inication that more recent years have more record high temperature days, which could indicate climate change. The first graph does not seem to have this trend. The second graph makes it easy to see which years had teh most record high temperature days. 
+I wanted to see if there was any inication that more recent years have more record high temperature days, which could indicate climate change. The first graph does not seem to have this trend. The second graph makes it easy to see which years had the most record high temperature days. 
