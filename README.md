@@ -27,13 +27,18 @@ Plot 1 graphs days with precipitation by month.
 Plot 2 graphs percentage of days with precipitation by month. 
 ![rain_pct](images/rain_percent.png)
 
+In general, Chicago gets more precipitation in the winter than in the summer. 
 
 ### Plot 3: Heatmap of Maximum Daily Temperature 
 This plot visualizes the change in maximum daily temperature over the year, with darker red representing hotter days. Note that there are two plots that are half full. This is because we only have data for half of the year for two years.  
 ![heatmap](images/heatmap.png)
+
+It is much hotter in the summer than in the winter in Chicago. The weather in the winter is often below freezing, which implies that the precipitation in the wintertime comes as snow. 
 
 ### Plots 4 and 5: Record High Temperature by Year
 The height of the bars represent the number of record high temperature days in a given year. Plot 4 is sorted by year.
 ![bar1](images/bar1.png)
 Plot 5 is sorted by number of days with record highs. 
 ![bar2](images/bar2.png)
+
+I wanted to see if there was any inication that more recent years have more record high temperature days, which could indicate climate change. The first graph does not seem to have this trend. The second graph makes it easy to see which years had teh most record high temperature days. 
