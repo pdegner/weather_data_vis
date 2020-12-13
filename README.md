@@ -19,6 +19,7 @@ Column | Description
 
 Source: [Weather Underground](http://wunderground.com)
 
+This data was already quite clean, so no additional cleaning steps were taken up front. Details about plot implementation can be found in the code. 
 
 ### Plots 1 and 2: Precipitation by Month
 Plot 1 graphs days with precipitation by month. 
